@@ -1,0 +1,7 @@
+import = [
+  "~/.config/alacritty/catppuccin-mocha.toml",
+]
+[font]
+	size = 15
+[font.normal]
+	family = "MesloLGS NF"	
